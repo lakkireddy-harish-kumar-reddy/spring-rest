@@ -1,1 +1,1 @@
-This is a demo while learining spring rest features
+This is a demo while learining spring rest features.
